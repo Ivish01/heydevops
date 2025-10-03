@@ -1,0 +1,8 @@
+ping
+traceroute
+netstat
+namp
+tcpdump
+ipconfig
+dig
+nslookup				Qq
